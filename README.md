@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ryan
 #### A Computer Science student at the University of the West Indies, Jamaica
-My interests currently lie in Game and Game Engine Development, Graphics Programming, UI and Graphic Design, Android App Development and Sound Design and Music Production
+My interests currently lie in Game and Game Engine Development, Graphics Programming, Arduino Programming, UI and Graphic Design, Android App Development, Sound Design and Music Production
 
 Skills: Java / Kotlin / C / Python
 
