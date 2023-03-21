@@ -2,7 +2,7 @@
 #### A Computer Science student at the University of the West Indies, Jamaica
 My interests currently lie in Game and Game Engine Development, Graphics Programming, UI and Graphic Design, Android App Development and Sound Design and Music Production
 
-Skills: Java / Kotlin / C
+Skills: Java / Kotlin / C / Python
 
 - 🌱 I’m currently learning Kotlin for Mobile Development and C++ for Game Engine Development 
 - ⚡ Fun fact: I produce music 
