@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Ryan
+#### A Computer Science student at the University of the West Indies, Jamaica
+My interests currently lie in Game and Game Engine Development, Graphics Programming, UI and Graphic Design, Android App Development and Sound Design and Music Production
 
-<!--
-**AS-Coope/AS-Coope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Java / Kotlin / C
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Kotlin for Mobile Development and C++ for Game Engine Development 
+- ⚡ Fun fact: I produce music 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AS-Coope)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/delta-zrc)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AS-Coope)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AS-Coope&show_icons=true)  
+
