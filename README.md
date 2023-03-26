@@ -4,7 +4,7 @@ My interests currently lie in Game and Game Engine Development, Graphics Program
 
 Skills: Java / Kotlin / C / Python
 
-- 🌱 I’m currently learning Kotlin for Mobile Development and C++ for Game Engine Development 
+- 🌱 I’m currently learning Kotlin for Mobile Application Development and C++ for Game Engine Development 
 - ⚡ Fun fact: I produce music 
 
 
