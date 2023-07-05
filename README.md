@@ -5,7 +5,7 @@ My interests currently lie in Game and Game Engine Development, Graphics Program
 Skills: Java / Kotlin / C / Python / MySQL  
 Familiar with: HTML
 
-- 🌱 I’m currently learning Kotlin for Mobile Application Development and HTML, CSS and Javascript for Web Development
+- 🌱 I’m currently learning Kotlin and Flutter for Mobile Application Development and HTML, CSS and Javascript for Web Development
 - ⚡ Fun fact: I produce music 
 
 
