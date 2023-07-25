@@ -3,7 +3,7 @@
 My interests currently lie in Game and Game Engine Development, Graphics Programming, Arduino Programming, UI and Graphic Design, Android App Development, Sound Design and Music Production
 
 Skills: Java / Kotlin / C / Python / MySQL  
-Familiar with: HTML, CSS
+Familiar with: HTML / CSS
 
 - 🌱 I’m currently learning Kotlin for Mobile Application Development and HTML, CSS and Javascript for Web Development
 - ⚡ Fun fact: I dabble in music production 
