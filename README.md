@@ -6,7 +6,7 @@ Skills: Java / Kotlin / C / Python / MySQL
 Familiar with: HTML
 
 - 🌱 I’m currently learning Kotlin and Flutter for Mobile Application Development and HTML, CSS and Javascript for Web Development
-- ⚡ Fun fact: I produce music 
+- ⚡ Fun fact: I dabble in music production 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AS-Coope)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/delta-zrc)
