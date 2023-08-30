@@ -1,13 +1,19 @@
-### Hi there 👋, my name is Ryan
-#### I am a Computer Science student at the University of the West Indies, Jamaica
-My interests currently lie in Game and Game Engine Development, Graphics Programming, Arduino Programming, UI and Graphic Design, Android App Development, Sound Design and Music Production
+# ZrC Code Oasis
+#### Welcome, I'm Ryan and here, you've stumbled upon a small oasis of coding projects.
+In this little corner etched into the internet, and moreso Github, you'll find projects that fall under Android Mobile Development, Web Development, Java Application Development, Python Application Development and more!
 
-Skills: Java / Kotlin / C / Python / MySQL  
-Familiar with: HTML / CSS
+So, peruse the repos a bit. You see a project that you like? Explore it! Clone it! Test it! Play with it! Break it! Fix it! Learn! Create!
 
-- 🌱 I’m currently learning Kotlin for Mobile Application Development and HTML, CSS and Javascript for Web Development
-- ⚡ Fun fact: I dabble in music production 
+Currently, these are the languages and technologies I'm playing around with or have some familiarity with.
+|   **Use Regularly**   |   **Familiar With**   |
+|-----------------------|-----------------------|
+|Kotlin                 |HTML                   |
+|Java                   |CSS                    |
+|Python                 |C                      |
+|PostgreSQL             |Godot                  |
+|Ubuntu Linux           |                       |
 
+- ⚡ Fun fact: I dabble in music production
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='35'>](https://soundcloud.com/delta-zrc)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AS-Coope)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/delta-zrc)
 
