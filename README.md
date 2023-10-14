@@ -1,6 +1,8 @@
 # ZrC Code Oasis
 #### Welcome, I'm Ryan and here, you've stumbled upon a small oasis of coding projects.
-In this little corner etched into the internet, and moreso Github, you'll find projects that fall under Android Mobile Development, Web Development, Java Application Development, Python Application Development and more!
+In this little corner etched into the internet, and moreso Github, you'll find projects that fall under Android Mobile Development, Web Development, Java Application Development, Python Application Development and more!  
+
+Of these, I'm mostly focused on Android Application Development and Web Development.
 
 So, peruse the repos a bit. You see a project that you like? Explore it! Clone it! Test it! Play with it! Break it! Fix it! Learn! Create!
 
