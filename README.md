@@ -13,7 +13,4 @@ Here are some languages and technologies I'm playing around with or have some fa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60px" height="60px"/>&nbsp;
 </div>
 
-- ⚡ Fun fact: I dabble in music production
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='35'>](https://soundcloud.com/delta-zrc)
-
 
