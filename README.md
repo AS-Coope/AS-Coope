@@ -1,6 +1,6 @@
 # ZrC Code Oasis
 #### Welcome, I'm Ryan and here, you've stumbled upon a small oasis of coding projects.
-In this little corner etched into the internet, and moreso Github, you'll find projects that fall mostly under Android Mobile Development and Web Development.
+In this little corner etched into the internet, and moreso Github, you'll find projects that fall under Web Development, Android Mobile Development and Graphics Programming as those are my interests.
 
 Here are some languages and technologies I'm playing around with or have some familiarity with:
 <div>
